@@ -1,0 +1,20 @@
+C:\Users\Svetlana\source\repos\Week_2\Week2\bin\Debug\Week2.exe.config
+C:\Users\Svetlana\source\repos\Week_2\Week2\bin\Debug\Week2.exe
+C:\Users\Svetlana\source\repos\Week_2\Week2\bin\Debug\Week2.pdb
+C:\Users\Svetlana\source\repos\Week_2\Week2\obj\Debug\Week2.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\source\repos\Week_2\Week2\obj\Debug\Week2.Form1.resources
+C:\Users\Svetlana\source\repos\Week_2\Week2\obj\Debug\Week2.Properties.Resources.resources
+C:\Users\Svetlana\source\repos\Week_2\Week2\obj\Debug\Week2.csproj.GenerateResource.Cache
+C:\Users\Svetlana\source\repos\Week_2\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\source\repos\Week_2\Week2\obj\Debug\Week2.exe
+C:\Users\Svetlana\source\repos\Week_2\Week2\obj\Debug\Week2.pdb
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\obj\Debug\Week2.csprojResolveAssemblyReference.cache
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\obj\Debug\Week2.frm_Registration.resources
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\obj\Debug\Week2.Properties.Resources.resources
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\obj\Debug\Week2.csproj.GenerateResource.Cache
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\obj\Debug\Week2.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\obj\Debug\Week2.exe
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\obj\Debug\Week2.pdb
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\bin\Debug\Week2.exe.config
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\bin\Debug\Week2.exe
+C:\Users\Svetlana\source\repos\Aspire2 form\Week2\bin\Debug\Week2.pdb
